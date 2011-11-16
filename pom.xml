@@ -30,6 +30,7 @@
         <module>routing</module>
         <module>web</module>
         <module>webservice</module>
+        <module>guide</module>
     </modules>
 
     <properties>
