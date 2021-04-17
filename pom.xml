@@ -33,7 +33,7 @@
     </modules>
 
     <properties>
-        <activemq-version>5.5.1-fuse-01-06</activemq-version>
+        <activemq-version>5.6.0</activemq-version>
         <aries-version>0.3</aries-version>
         <asm-version>1.5.3</asm-version>
         <build-helper-maven-plugin.version>1.5</build-helper-maven-plugin.version>
