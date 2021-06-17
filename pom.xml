@@ -59,7 +59,7 @@
         <servicemix-version>4.4.1-fuse-01-06</servicemix-version>
         <slf4j-version>1.6.2</slf4j-version>
         <spring-osgi-version>1.2.1</spring-osgi-version>
-        <spring-version>3.0.5.RELEASE</spring-version>
+        <spring-version>3.2.9.RELEASE</spring-version>
         <wicket-version>1.4.7</wicket-version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
